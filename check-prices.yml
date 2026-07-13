@@ -1,0 +1,41 @@
+name: Check crypto prices
+
+on:
+  schedule:
+    # Каждые 10 минут. Синтаксис: минута час день месяц день-недели
+    - cron: "*/10 * * * *"
+  # Позволяет запустить вручную кнопкой "Run workflow" на вкладке Actions
+  workflow_dispatch:
+
+# Разрешаем workflow пушить обновлённый alert_state.json обратно в репозиторий
+permissions:
+  contents: write
+
+jobs:
+  check-prices:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run price check
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python bot.py
+
+      - name: Save cooldown state back to the repo
+        run: |
+          git config user.name "price-bot"
+          git config user.email "price-bot@users.noreply.github.com"
+          git add alert_state.json
+          git diff --quiet --cached || git commit -m "Update alert state [skip ci]"
+          git push
