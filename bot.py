@@ -49,9 +49,9 @@ TIERS = [
     {
         "name": "TOP 3-50 (крупные альты)",
         "rank_max": 50,
-        "daily_drop": 11.0,
-        "daily_rise": 20.0,
-        "hourly_impulse_drop": 4.5,
+        "daily_drop": 0.1,
+        "daily_rise": 0.1,
+        "hourly_impulse_drop": 0.1,
         "check_hourly_impulse": True,
     },
     {
