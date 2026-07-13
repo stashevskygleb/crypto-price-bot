@@ -41,9 +41,9 @@ TIERS = [
     {
         "name": "TOP-2 (BTC/ETH)",
         "rank_max": 2,
-        "daily_drop": 6.0,
-        "daily_rise": 10.0,
-        "hourly_impulse_drop": 4.0,
+        "daily_drop": 0.1,
+        "daily_rise": 0.1,
+        "hourly_impulse_drop": 0.1,
         "check_hourly_impulse": True,
     },
     {
