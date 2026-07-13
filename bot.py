@@ -124,6 +124,10 @@ def send_telegram_message(text):
         resp.raise_for_status()
     except requests.RequestException as e:
         print(f"[{datetime.now()}] Ошибка отправки в Telegram: {e}")
+        try:
+            print(f"[{datetime.now()}] Тело ответа Telegram: {resp.text}")
+        except NameError:
+            pass
 
 
 def format_message(emoji, title, coin, rank, tier_name, price, change, period_label):
