@@ -1,5 +1,11 @@
 {
   "kite-2:daily_rise": "2026-07-13T09:59:11.836326",
-  "decred:daily_rise": "2026-07-13T09:59:12.199678",
-  "velvet:daily_rise": "2026-07-13T09:59:12.517185"
+  "decred:daily_rise": "2026-07-13T13:49:24.276599",
+  "velvet:daily_rise": "2026-07-13T09:59:12.517185",
+  "bitcoin:daily_drop": "2026-07-13T13:49:21.905272",
+  "bitcoin:hourly_impulse": "2026-07-13T13:49:22.369361",
+  "ethereum:daily_drop": "2026-07-13T13:49:22.847023",
+  "ethereum:hourly_impulse": "2026-07-13T13:49:23.307996",
+  "pi-network:daily_drop": "2026-07-13T13:49:23.780082",
+  "cash-cat:daily_drop": "2026-07-13T13:49:24.802282"
 }
