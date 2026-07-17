@@ -57,7 +57,7 @@
   "uniswap:daily_drop": "2026-07-13T13:54:49.302362",
   "uniswap:hourly_impulse": "2026-07-13T13:54:49.654799",
   "dexe:daily_drop": "2026-07-16T13:05:56.410256",
-  "dexe:hourly_impulse": "2026-07-16T13:05:56.842296",
+  "dexe:hourly_impulse": "2026-07-17T16:38:30.226127",
   "bittensor:daily_drop": "2026-07-13T13:54:50.871863",
   "bittensor:hourly_impulse": "2026-07-13T13:54:51.291993",
   "world-liberty-financial:daily_drop": "2026-07-13T13:54:51.664180",
@@ -79,5 +79,5 @@
   "velvet:daily_drop": "2026-07-15T07:26:57.212214",
   "memecore:daily_drop": "2026-07-15T12:07:56.404893",
   "kaito:daily_rise": "2026-07-17T12:00:12.170807",
-  "ecash:daily_rise": "2026-07-17T12:00:12.601080"
+  "ecash:daily_rise": "2026-07-17T16:38:30.769970"
 }
