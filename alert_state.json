@@ -56,7 +56,7 @@
   "ondo-us-dollar-yield:hourly_impulse": "2026-07-13T13:54:48.943525",
   "uniswap:daily_drop": "2026-07-13T13:54:49.302362",
   "uniswap:hourly_impulse": "2026-07-13T13:54:49.654799",
-  "dexe:daily_drop": "2026-07-23T13:15:29.959183",
+  "dexe:daily_drop": "2026-07-23T18:02:14.110348",
   "dexe:hourly_impulse": "2026-07-17T16:38:30.226127",
   "bittensor:daily_drop": "2026-07-13T13:54:50.871863",
   "bittensor:hourly_impulse": "2026-07-13T13:54:51.291993",
@@ -85,8 +85,9 @@
   "pump-fun:daily_rise": "2026-07-20T08:28:30.378027",
   "midnight-3:daily_drop": "2026-07-21T09:38:39.900108",
   "midnight-3:daily_rise": "2026-07-22T00:02:22.648444",
-  "blockchain-capital:daily_rise": "2026-07-23T13:15:29.217007",
+  "blockchain-capital:daily_rise": "2026-07-23T18:02:13.164019",
   "hash-2:daily_drop": "2026-07-23T13:15:29.584392",
-  "build-on:daily_drop": "2026-07-23T13:15:30.380622",
-  "apriori:daily_drop": "2026-07-23T13:15:30.745176"
+  "build-on:daily_drop": "2026-07-23T18:02:14.569188",
+  "apriori:daily_drop": "2026-07-23T13:15:30.745176",
+  "grok-4:daily_drop": "2026-07-23T18:02:13.660697"
 }
