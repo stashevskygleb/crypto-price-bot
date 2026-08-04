@@ -86,7 +86,7 @@
   "midnight-3:daily_drop": "2026-07-21T09:38:39.900108",
   "midnight-3:daily_rise": "2026-07-22T00:02:22.648444",
   "blockchain-capital:daily_rise": "2026-07-23T21:45:44.534026",
-  "hash-2:daily_drop": "2026-08-03T12:38:41.930654",
+  "hash-2:daily_drop": "2026-08-04T20:58:05.672922",
   "build-on:daily_drop": "2026-07-23T21:45:46.347426",
   "apriori:daily_drop": "2026-07-23T21:45:46.804146",
   "grok-4:daily_drop": "2026-07-24T06:45:51.005784",
@@ -98,12 +98,12 @@
   "quack-ai:daily_rise": "2026-07-26T07:45:00.097491",
   "pieverse:daily_rise": "2026-07-26T11:47:52.375282",
   "grx-chain:daily_rise": "2026-07-31T10:02:16.832247",
-  "bitway:daily_rise": "2026-08-04T16:22:46.929637",
+  "bitway:daily_rise": "2026-08-04T20:58:06.549820",
   "pieverse:daily_drop": "2026-07-27T12:38:37.987795",
   "kinesis-silver:daily_rise": "2026-07-27T18:14:19.448063",
   "tagger:daily_rise": "2026-07-27T18:14:19.813981",
-  "audiera:daily_drop": "2026-08-04T08:08:03.423672",
-  "unibase:daily_drop": "2026-07-28T08:00:50.052662",
+  "audiera:daily_drop": "2026-08-04T20:58:05.246161",
+  "unibase:daily_drop": "2026-08-04T20:58:06.120762",
   "automatic-treasury-machine:daily_rise": "2026-07-28T08:00:48.958647",
   "bitway:daily_drop": "2026-08-02T20:14:44.962635",
   "collector-crypt:daily_rise": "2026-08-04T16:22:46.598191",
@@ -112,5 +112,5 @@
   "talus:daily_rise": "2026-08-01T00:13:18.854160",
   "agentfun-ai:daily_rise": "2026-08-01T20:02:36.519332",
   "ultima:daily_rise": "2026-08-01T12:14:45.018213",
-  "glidr:daily_rise": "2026-08-04T16:22:47.261164"
+  "glidr:daily_rise": "2026-08-04T20:58:07.035370"
 }
