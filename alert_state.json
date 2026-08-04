@@ -71,7 +71,7 @@
   "htx-dao:hourly_impulse": "2026-07-13T13:54:55.322331",
   "memecore:daily_rise": "2026-07-14T12:03:03.421204",
   "memecore:hourly_impulse": "2026-07-13T13:54:55.980320",
-  "hash-2:daily_rise": "2026-07-31T10:02:16.150175",
+  "hash-2:daily_rise": "2026-08-04T16:22:46.260314",
   "decred:daily_drop": "2026-07-14T07:22:36.424364",
   "billions-network:daily_rise": "2026-07-14T12:03:04.116903",
   "derive:daily_rise": "2026-07-14T20:41:36.983458",
@@ -98,7 +98,7 @@
   "quack-ai:daily_rise": "2026-07-26T07:45:00.097491",
   "pieverse:daily_rise": "2026-07-26T11:47:52.375282",
   "grx-chain:daily_rise": "2026-07-31T10:02:16.832247",
-  "bitway:daily_rise": "2026-08-04T08:08:03.926903",
+  "bitway:daily_rise": "2026-08-04T16:22:46.929637",
   "pieverse:daily_drop": "2026-07-27T12:38:37.987795",
   "kinesis-silver:daily_rise": "2026-07-27T18:14:19.448063",
   "tagger:daily_rise": "2026-07-27T18:14:19.813981",
@@ -106,10 +106,11 @@
   "unibase:daily_drop": "2026-07-28T08:00:50.052662",
   "automatic-treasury-machine:daily_rise": "2026-07-28T08:00:48.958647",
   "bitway:daily_drop": "2026-08-02T20:14:44.962635",
-  "collector-crypt:daily_rise": "2026-07-30T23:46:17.424245",
+  "collector-crypt:daily_rise": "2026-08-04T16:22:46.598191",
   "kaito:daily_drop": "2026-07-30T20:22:57.760322",
   "sandisk-bstocks-tokenized-stock:daily_rise": "2026-07-30T23:46:18.353104",
   "talus:daily_rise": "2026-08-01T00:13:18.854160",
   "agentfun-ai:daily_rise": "2026-08-01T20:02:36.519332",
-  "ultima:daily_rise": "2026-08-01T12:14:45.018213"
+  "ultima:daily_rise": "2026-08-01T12:14:45.018213",
+  "glidr:daily_rise": "2026-08-04T16:22:47.261164"
 }
