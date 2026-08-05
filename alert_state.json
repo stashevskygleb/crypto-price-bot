@@ -1,7 +1,7 @@
 {
   "kite-2:daily_rise": "2026-07-13T09:59:11.836326",
   "decred:daily_rise": "2026-07-13T13:49:24.276599",
-  "velvet:daily_rise": "2026-07-13T20:45:20.030191",
+  "velvet:daily_rise": "2026-08-05T18:09:06.069213",
   "bitcoin:daily_drop": "2026-07-13T13:49:21.905272",
   "bitcoin:hourly_impulse": "2026-07-13T13:49:22.369361",
   "ethereum:daily_drop": "2026-07-13T13:49:22.847023",
@@ -112,5 +112,6 @@
   "talus:daily_rise": "2026-08-01T00:13:18.854160",
   "agentfun-ai:daily_rise": "2026-08-01T20:02:36.519332",
   "ultima:daily_rise": "2026-08-01T12:14:45.018213",
-  "glidr:daily_rise": "2026-08-04T20:58:07.035370"
+  "glidr:daily_rise": "2026-08-04T20:58:07.035370",
+  "kinesis-gold:daily_drop": "2026-08-05T18:09:06.557169"
 }
