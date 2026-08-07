@@ -34,7 +34,7 @@
   "chainlink:daily_drop": "2026-07-13T13:54:40.926852",
   "cardano:daily_drop": "2026-07-13T13:54:41.280488",
   "cardano:hourly_impulse": "2026-07-13T13:54:41.629028",
-  "canton-network:daily_drop": "2026-07-13T13:54:42.000808",
+  "canton-network:daily_drop": "2026-08-07T01:43:51.588489",
   "canton-network:hourly_impulse": "2026-07-13T13:54:42.368994",
   "bitcoin-cash:daily_drop": "2026-07-13T13:54:42.751809",
   "the-open-network:daily_drop": "2026-07-13T13:54:43.134653",
@@ -100,7 +100,7 @@
   "grx-chain:daily_rise": "2026-07-31T10:02:16.832247",
   "bitway:daily_rise": "2026-08-06T08:02:23.609875",
   "pieverse:daily_drop": "2026-07-27T12:38:37.987795",
-  "kinesis-silver:daily_rise": "2026-07-27T18:14:19.448063",
+  "kinesis-silver:daily_rise": "2026-08-07T01:43:52.601121",
   "tagger:daily_rise": "2026-07-27T18:14:19.813981",
   "audiera:daily_drop": "2026-08-06T08:02:22.890042",
   "unibase:daily_drop": "2026-08-05T12:28:14.107062",
@@ -113,5 +113,6 @@
   "agentfun-ai:daily_rise": "2026-08-01T20:02:36.519332",
   "ultima:daily_rise": "2026-08-01T12:14:45.018213",
   "glidr:daily_rise": "2026-08-04T20:58:07.035370",
-  "kinesis-gold:daily_drop": "2026-08-05T22:20:15.530796"
+  "kinesis-gold:daily_drop": "2026-08-05T22:20:15.530796",
+  "kinesis-gold:daily_rise": "2026-08-07T01:43:52.078907"
 }
