@@ -46,7 +46,7 @@
   "hedera-hashgraph:daily_drop": "2026-07-13T13:54:45.415002",
   "avalanche-2:daily_rise": "2026-07-13T13:54:45.822642",
   "avalanche-2:hourly_impulse": "2026-07-13T13:54:46.210959",
-  "crypto-com-chain:daily_drop": "2026-07-13T13:54:46.585685",
+  "crypto-com-chain:daily_drop": "2026-08-08T08:22:33.072599",
   "tether-gold:daily_drop": "2026-07-13T13:54:46.919550",
   "tether-gold:hourly_impulse": "2026-07-13T13:54:47.261273",
   "near:daily_rise": "2026-07-13T13:54:47.594873",
@@ -107,7 +107,7 @@
   "automatic-treasury-machine:daily_rise": "2026-07-28T08:00:48.958647",
   "bitway:daily_drop": "2026-08-08T06:26:17.160723",
   "collector-crypt:daily_rise": "2026-08-04T16:22:46.598191",
-  "kaito:daily_drop": "2026-07-30T20:22:57.760322",
+  "kaito:daily_drop": "2026-08-08T08:22:33.409018",
   "sandisk-bstocks-tokenized-stock:daily_rise": "2026-07-30T23:46:18.353104",
   "talus:daily_rise": "2026-08-01T00:13:18.854160",
   "agentfun-ai:daily_rise": "2026-08-01T20:02:36.519332",
@@ -115,5 +115,5 @@
   "glidr:daily_rise": "2026-08-04T20:58:07.035370",
   "kinesis-gold:daily_drop": "2026-08-05T22:20:15.530796",
   "kinesis-gold:daily_rise": "2026-08-07T22:09:11.337926",
-  "cysic:daily_rise": "2026-08-08T04:18:13.844553"
+  "cysic:daily_rise": "2026-08-08T08:22:33.772947"
 }
