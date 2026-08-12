@@ -1,7 +1,7 @@
 {
   "kite-2:daily_rise": "2026-07-13T09:59:11.836326",
   "decred:daily_rise": "2026-07-13T13:49:24.276599",
-  "velvet:daily_rise": "2026-08-11T22:26:49.336874",
+  "velvet:daily_rise": "2026-08-12T05:12:08.972484",
   "bitcoin:daily_drop": "2026-07-13T13:49:21.905272",
   "bitcoin:hourly_impulse": "2026-07-13T13:49:22.369361",
   "ethereum:daily_drop": "2026-07-13T13:49:22.847023",
@@ -93,7 +93,7 @@
   "unibase:daily_rise": "2026-08-03T12:38:41.576077",
   "audiera:daily_rise": "2026-08-09T21:16:54.058164",
   "dexe:daily_rise": "2026-07-25T21:31:43.744570",
-  "apriori:daily_rise": "2026-07-24T21:45:45.324237",
+  "apriori:daily_rise": "2026-08-12T05:12:08.652988",
   "shiba-inu:daily_rise": "2026-07-26T11:47:51.506921",
   "quack-ai:daily_rise": "2026-07-26T07:45:00.097491",
   "pieverse:daily_rise": "2026-07-26T11:47:52.375282",
@@ -119,5 +119,5 @@
   "humanity:daily_drop": "2026-08-08T17:04:29.997367",
   "kinesis-silver:daily_drop": "2026-08-09T11:03:51.380128",
   "tutorial:daily_rise": "2026-08-10T05:07:19.115349",
-  "holoworld:daily_rise": "2026-08-11T22:26:49.799778"
+  "holoworld:daily_rise": "2026-08-12T05:12:09.299038"
 }
