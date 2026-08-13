@@ -102,7 +102,7 @@
   "pieverse:daily_drop": "2026-07-27T12:38:37.987795",
   "kinesis-silver:daily_rise": "2026-08-10T14:32:58.897757",
   "tagger:daily_rise": "2026-07-27T18:14:19.813981",
-  "audiera:daily_drop": "2026-08-13T11:14:17.224064",
+  "audiera:daily_drop": "2026-08-13T21:22:08.508616",
   "unibase:daily_drop": "2026-08-07T23:52:51.461280",
   "automatic-treasury-machine:daily_rise": "2026-07-28T08:00:48.958647",
   "bitway:daily_drop": "2026-08-08T10:05:27.348848",
@@ -120,7 +120,8 @@
   "kinesis-silver:daily_drop": "2026-08-09T11:03:51.380128",
   "tutorial:daily_rise": "2026-08-10T05:07:19.115349",
   "holoworld:daily_rise": "2026-08-12T05:12:09.299038",
-  "fgrs-figure-tokenized-stock:daily_rise": "2026-08-13T11:14:17.646521",
-  "cysic:daily_drop": "2026-08-13T17:43:26.538175",
-  "akedo:daily_rise": "2026-08-13T18:41:24.321621"
+  "fgrs-figure-tokenized-stock:daily_rise": "2026-08-13T21:22:08.888206",
+  "cysic:daily_drop": "2026-08-13T21:22:09.315302",
+  "akedo:daily_rise": "2026-08-13T18:41:24.321621",
+  "figure-heloc:hourly_impulse": "2026-08-13T21:22:08.128440"
 }
