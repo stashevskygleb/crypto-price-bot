@@ -1,7 +1,7 @@
 {
   "kite-2:daily_rise": "2026-07-13T09:59:11.836326",
   "decred:daily_rise": "2026-07-13T13:49:24.276599",
-  "velvet:daily_rise": "2026-08-13T10:17:42.083753",
+  "velvet:daily_rise": "2026-08-13T13:42:46.244873",
   "bitcoin:daily_drop": "2026-07-13T13:49:21.905272",
   "bitcoin:hourly_impulse": "2026-07-13T13:49:22.369361",
   "ethereum:daily_drop": "2026-07-13T13:49:22.847023",
@@ -120,5 +120,6 @@
   "kinesis-silver:daily_drop": "2026-08-09T11:03:51.380128",
   "tutorial:daily_rise": "2026-08-10T05:07:19.115349",
   "holoworld:daily_rise": "2026-08-12T05:12:09.299038",
-  "fgrs-figure-tokenized-stock:daily_rise": "2026-08-13T11:14:17.646521"
+  "fgrs-figure-tokenized-stock:daily_rise": "2026-08-13T11:14:17.646521",
+  "cysic:daily_drop": "2026-08-13T13:42:46.650561"
 }
