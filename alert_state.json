@@ -1,7 +1,7 @@
 {
   "kite-2:daily_rise": "2026-07-13T09:59:11.836326",
   "decred:daily_rise": "2026-07-13T13:49:24.276599",
-  "velvet:daily_rise": "2026-08-14T14:27:48.955369",
+  "velvet:daily_rise": "2026-08-14T17:29:27.004982",
   "bitcoin:daily_drop": "2026-07-13T13:49:21.905272",
   "bitcoin:hourly_impulse": "2026-07-13T13:49:22.369361",
   "ethereum:daily_drop": "2026-07-13T13:49:22.847023",
@@ -102,7 +102,7 @@
   "pieverse:daily_drop": "2026-07-27T12:38:37.987795",
   "kinesis-silver:daily_rise": "2026-08-10T14:32:58.897757",
   "tagger:daily_rise": "2026-07-27T18:14:19.813981",
-  "audiera:daily_drop": "2026-08-14T14:27:49.991097",
+  "audiera:daily_drop": "2026-08-14T17:29:28.020760",
   "unibase:daily_drop": "2026-08-07T23:52:51.461280",
   "automatic-treasury-machine:daily_rise": "2026-07-28T08:00:48.958647",
   "bitway:daily_drop": "2026-08-08T10:05:27.348848",
@@ -125,5 +125,5 @@
   "akedo:daily_rise": "2026-08-14T16:24:41.880618",
   "figure-heloc:hourly_impulse": "2026-08-13T21:22:08.128440",
   "doublezero:daily_rise": "2026-08-14T07:43:11.514154",
-  "humanity:daily_rise": "2026-08-14T14:27:49.478349"
+  "humanity:daily_rise": "2026-08-14T17:29:27.515617"
 }
