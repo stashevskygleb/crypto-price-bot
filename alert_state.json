@@ -11,7 +11,7 @@
   "binancecoin:daily_drop": "2026-07-13T13:54:32.979651",
   "binancecoin:hourly_impulse": "2026-07-13T13:54:33.308155",
   "ripple:daily_drop": "2026-07-13T13:54:33.633186",
-  "ripple:hourly_impulse": "2026-07-13T13:54:33.972566",
+  "ripple:hourly_impulse": "2026-08-20T19:05:49.122282",
   "solana:daily_drop": "2026-07-13T13:54:34.365749",
   "solana:hourly_impulse": "2026-07-13T13:54:34.714299",
   "tron:daily_drop": "2026-07-13T13:54:35.070940",
@@ -131,7 +131,7 @@
   "akedo:daily_drop": "2026-08-18T05:36:36.847952",
   "venice-token:daily_rise": "2026-08-18T14:36:02.453856",
   "bitway:hourly_impulse": "2026-08-19T16:34:27.831292",
-  "ethereum:daily_rise": "2026-08-20T15:19:48.358214",
+  "ethereum:daily_rise": "2026-08-20T19:05:48.609438",
   "hyperliquid:daily_rise": "2026-08-20T15:19:48.873166",
   "official-trump:daily_rise": "2026-08-20T09:19:20.652891",
   "lighter:daily_rise": "2026-08-20T09:19:20.105449",
@@ -140,5 +140,6 @@
   "spx6900:daily_rise": "2026-08-20T09:19:21.200411",
   "monad:daily_rise": "2026-08-20T16:37:58.000064",
   "ripple:daily_rise": "2026-08-20T18:15:51.448114",
-  "telcoin:daily_rise": "2026-08-20T18:15:51.951424"
+  "telcoin:daily_rise": "2026-08-20T18:15:51.951424",
+  "ethena:daily_rise": "2026-08-20T19:05:49.652976"
 }
