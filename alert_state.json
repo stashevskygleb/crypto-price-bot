@@ -135,13 +135,18 @@
   "hyperliquid:daily_rise": "2026-08-20T15:19:48.873166",
   "official-trump:daily_rise": "2026-08-20T09:19:20.652891",
   "lighter:daily_rise": "2026-08-20T09:19:20.105449",
-  "bitcoin:daily_rise": "2026-08-20T15:19:47.870085",
+  "bitcoin:daily_rise": "2026-08-21T09:07:58.548953",
   "pepe:daily_rise": "2026-08-20T16:37:57.473700",
   "spx6900:daily_rise": "2026-08-20T09:19:21.200411",
   "monad:daily_rise": "2026-08-20T16:37:58.000064",
-  "ripple:daily_rise": "2026-08-21T05:18:36.851216",
+  "ripple:daily_rise": "2026-08-21T09:07:58.902719",
   "telcoin:daily_rise": "2026-08-21T08:20:59.927723",
   "ethena:daily_rise": "2026-08-21T08:20:59.378845",
   "curve-dao-token:daily_rise": "2026-08-21T04:40:38.801166",
-  "bitcoin-cash:daily_rise": "2026-08-21T08:20:58.832631"
+  "bitcoin-cash:daily_rise": "2026-08-21T08:20:58.832631",
+  "bianrensheng:daily_rise": "2026-08-21T09:07:59.273065",
+  "fetch-ai:daily_rise": "2026-08-21T09:07:59.648917",
+  "blockstack:daily_rise": "2026-08-21T09:08:00.045374",
+  "plasma:daily_rise": "2026-08-21T09:08:00.426846",
+  "ethereum-name-service:daily_rise": "2026-08-21T09:08:00.815561"
 }
