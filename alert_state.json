@@ -144,7 +144,7 @@
   "ethena:daily_rise": "2026-08-22T04:47:21.587065",
   "curve-dao-token:daily_rise": "2026-08-22T03:24:07.039847",
   "bitcoin-cash:daily_rise": "2026-08-22T04:47:20.779337",
-  "bianrensheng:daily_rise": "2026-08-21T09:07:59.273065",
+  "bianrensheng:daily_rise": "2026-08-22T05:13:53.888822",
   "fetch-ai:daily_rise": "2026-08-22T04:47:23.184545",
   "blockstack:daily_rise": "2026-08-22T04:47:23.633511",
   "plasma:daily_rise": "2026-08-21T22:27:56.459726",
@@ -171,5 +171,11 @@
   "canton-network:daily_rise": "2026-08-22T04:06:21.756045",
   "layerzero:daily_rise": "2026-08-22T04:06:22.594196",
   "optimism:daily_rise": "2026-08-22T04:06:22.980583",
-  "theta-token:daily_rise": "2026-08-22T04:06:23.771534"
+  "theta-token:daily_rise": "2026-08-22T04:06:23.771534",
+  "cardano:daily_rise": "2026-08-22T05:13:50.894393",
+  "crypto-com-chain:daily_rise": "2026-08-22T05:13:51.687065",
+  "polkadot:daily_rise": "2026-08-22T05:13:52.194502",
+  "worldcoin-wld:daily_rise": "2026-08-22T05:13:52.772060",
+  "aptos:daily_rise": "2026-08-22T05:13:53.310656",
+  "pyth-network:daily_rise": "2026-08-22T05:13:54.396250"
 }
