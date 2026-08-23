@@ -169,7 +169,7 @@
   "celestia:daily_rise": "2026-08-22T03:24:07.530582",
   "kaia:daily_rise": "2026-08-22T03:24:08.029730",
   "canton-network:daily_rise": "2026-08-22T04:06:21.756045",
-  "layerzero:daily_rise": "2026-08-23T12:49:29.560421",
+  "layerzero:daily_rise": "2026-08-23T16:08:10.798737",
   "optimism:daily_rise": "2026-08-22T04:06:22.980583",
   "theta-token:daily_rise": "2026-08-22T04:06:23.771534",
   "cardano:daily_rise": "2026-08-22T05:13:50.894393",
@@ -194,5 +194,6 @@
   "official-trump:daily_drop": "2026-08-23T06:55:42.454509",
   "terra-luna:daily_drop": "2026-08-23T06:55:42.950051",
   "dogwifcoin:daily_drop": "2026-08-23T06:55:43.500874",
-  "fartcoin:daily_drop": "2026-08-23T06:55:44.010968"
+  "fartcoin:daily_drop": "2026-08-23T06:55:44.010968",
+  "morpho:daily_rise": "2026-08-23T16:08:10.332685"
 }
