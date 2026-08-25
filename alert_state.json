@@ -105,7 +105,7 @@
   "audiera:daily_drop": "2026-08-16T07:57:48.012917",
   "unibase:daily_drop": "2026-08-07T23:52:51.461280",
   "automatic-treasury-machine:daily_rise": "2026-07-28T08:00:48.958647",
-  "bitway:daily_drop": "2026-08-20T14:47:19.659479",
+  "bitway:daily_drop": "2026-08-25T18:42:11.029116",
   "collector-crypt:daily_rise": "2026-08-04T16:22:46.598191",
   "kaito:daily_drop": "2026-08-08T15:15:11.544637",
   "sandisk-bstocks-tokenized-stock:daily_rise": "2026-07-30T23:46:18.353104",
@@ -201,5 +201,6 @@
   "pump-fun:daily_drop": "2026-08-24T22:35:55.821643",
   "meta-2-2:daily_rise": "2026-08-25T15:01:19.870896",
   "aave:hourly_impulse": "2026-08-25T04:21:30.939337",
-  "bnb48-club-token:daily_rise": "2026-08-25T10:15:48.144447"
+  "bnb48-club-token:daily_rise": "2026-08-25T10:15:48.144447",
+  "rain:daily_rise": "2026-08-25T18:42:10.697581"
 }
