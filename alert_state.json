@@ -141,7 +141,7 @@
   "monad:daily_rise": "2026-08-20T16:37:58.000064",
   "ripple:daily_rise": "2026-08-22T08:11:38.394233",
   "telcoin:daily_rise": "2026-08-21T08:20:59.927723",
-  "ethena:daily_rise": "2026-08-22T04:47:21.587065",
+  "ethena:daily_rise": "2026-08-27T20:59:17.355573",
   "curve-dao-token:daily_rise": "2026-08-22T03:24:07.039847",
   "bitcoin-cash:daily_rise": "2026-08-22T04:47:20.779337",
   "bianrensheng:daily_rise": "2026-08-22T05:13:53.888822",
@@ -203,5 +203,6 @@
   "aave:hourly_impulse": "2026-08-25T04:21:30.939337",
   "bnb48-club-token:daily_rise": "2026-08-25T10:15:48.144447",
   "rain:daily_rise": "2026-08-26T14:08:10.826034",
-  "up-2:daily_rise": "2026-08-27T00:52:27.889928"
+  "up-2:daily_rise": "2026-08-27T00:52:27.889928",
+  "vechain:daily_rise": "2026-08-27T20:59:17.883208"
 }
