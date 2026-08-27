@@ -100,7 +100,7 @@
   "grx-chain:daily_rise": "2026-07-31T10:02:16.832247",
   "bitway:daily_rise": "2026-08-25T10:54:20.454593",
   "pieverse:daily_drop": "2026-08-22T17:29:51.398708",
-  "kinesis-silver:daily_rise": "2026-08-26T21:17:02.995904",
+  "kinesis-silver:daily_rise": "2026-08-27T00:52:26.266377",
   "tagger:daily_rise": "2026-07-27T18:14:19.813981",
   "audiera:daily_drop": "2026-08-16T07:57:48.012917",
   "unibase:daily_drop": "2026-08-07T23:52:51.461280",
@@ -163,7 +163,7 @@
   "ethereum-classic:daily_rise": "2026-08-22T04:47:22.003976",
   "dash:daily_rise": "2026-08-22T19:01:48.195512",
   "bonk:daily_rise": "2026-08-22T04:47:24.237660",
-  "convex-finance:daily_rise": "2026-08-22T01:22:06.148338",
+  "convex-finance:daily_rise": "2026-08-27T00:52:27.399346",
   "sui:daily_rise": "2026-08-22T03:24:05.370653",
   "polygon-ecosystem-token:daily_rise": "2026-08-22T20:50:14.290118",
   "celestia:daily_rise": "2026-08-22T03:24:07.530582",
@@ -197,10 +197,11 @@
   "fartcoin:daily_drop": "2026-08-23T06:55:44.010968",
   "morpho:daily_rise": "2026-08-24T04:10:26.946350",
   "grass:daily_rise": "2026-08-24T08:02:38.694089",
-  "cash-cat:daily_rise": "2026-08-25T12:00:20.252012",
+  "cash-cat:daily_rise": "2026-08-27T00:52:26.808644",
   "pump-fun:daily_drop": "2026-08-24T22:35:55.821643",
   "meta-2-2:daily_rise": "2026-08-25T23:01:07.407709",
   "aave:hourly_impulse": "2026-08-25T04:21:30.939337",
   "bnb48-club-token:daily_rise": "2026-08-25T10:15:48.144447",
-  "rain:daily_rise": "2026-08-26T14:08:10.826034"
+  "rain:daily_rise": "2026-08-26T14:08:10.826034",
+  "up-2:daily_rise": "2026-08-27T00:52:27.889928"
 }
