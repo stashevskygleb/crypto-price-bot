@@ -106,7 +106,7 @@
   "unibase:daily_drop": "2026-08-07T23:52:51.461280",
   "automatic-treasury-machine:daily_rise": "2026-07-28T08:00:48.958647",
   "bitway:daily_drop": "2026-08-25T18:42:11.029116",
-  "collector-crypt:daily_rise": "2026-08-30T05:55:27.557600",
+  "collector-crypt:daily_rise": "2026-08-30T11:34:29.117264",
   "kaito:daily_drop": "2026-08-08T15:15:11.544637",
   "sandisk-bstocks-tokenized-stock:daily_rise": "2026-07-30T23:46:18.353104",
   "talus:daily_rise": "2026-08-01T00:13:18.854160",
@@ -205,5 +205,5 @@
   "rain:daily_rise": "2026-08-26T14:08:10.826034",
   "up-2:daily_rise": "2026-08-27T00:52:27.889928",
   "vechain:daily_rise": "2026-08-27T20:59:17.883208",
-  "pons:daily_rise": "2026-08-30T05:55:27.922869"
+  "pons:daily_rise": "2026-08-30T11:34:28.765406"
 }
