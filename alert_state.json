@@ -205,9 +205,10 @@
   "rain:daily_rise": "2026-08-26T14:08:10.826034",
   "up-2:daily_rise": "2026-08-27T00:52:27.889928",
   "vechain:daily_rise": "2026-08-27T20:59:17.883208",
-  "pons:daily_rise": "2026-08-31T17:59:51.849844",
+  "pons:daily_rise": "2026-09-01T01:26:33.686859",
   "helium:daily_rise": "2026-08-30T18:45:16.197475",
-  "seeker:daily_rise": "2026-08-31T17:59:52.247876",
+  "seeker:daily_rise": "2026-09-01T01:26:33.992228",
   "collector-crypt:daily_drop": "2026-08-31T04:32:38.554697",
-  "safecoin:daily_rise": "2026-08-31T22:45:35.288282"
+  "safecoin:daily_rise": "2026-08-31T22:45:35.288282",
+  "arbitrum:daily_rise": "2026-09-01T01:26:33.381161"
 }
