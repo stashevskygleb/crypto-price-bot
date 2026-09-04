@@ -205,7 +205,7 @@
   "rain:daily_rise": "2026-08-26T14:08:10.826034",
   "up-2:daily_rise": "2026-08-27T00:52:27.889928",
   "vechain:daily_rise": "2026-08-27T20:59:17.883208",
-  "pons:daily_rise": "2026-09-03T22:34:43.189466",
+  "pons:daily_rise": "2026-09-04T04:57:28.034492",
   "helium:daily_rise": "2026-08-30T18:45:16.197475",
   "seeker:daily_rise": "2026-09-01T01:26:33.992228",
   "collector-crypt:daily_drop": "2026-08-31T04:32:38.554697",
@@ -215,6 +215,7 @@
   "a7a5:daily_drop": "2026-09-01T19:35:21.565475",
   "falcon-finance-ff:daily_rise": "2026-09-02T09:00:49.742609",
   "elrond-erd-2:daily_rise": "2026-09-03T09:43:52.041137",
-  "edgex:daily_rise": "2026-09-03T22:34:43.695163",
-  "useless-3:daily_rise": "2026-09-03T22:34:44.217016"
+  "edgex:daily_rise": "2026-09-04T04:57:28.973166",
+  "useless-3:daily_rise": "2026-09-04T04:57:28.653524",
+  "artificial-inu-3:daily_drop": "2026-09-04T04:57:28.343581"
 }
