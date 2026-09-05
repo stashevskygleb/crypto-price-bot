@@ -1,6 +1,6 @@
 {
   "kite-2:daily_rise": "2026-07-13T09:59:11.836326",
-  "decred:daily_rise": "2026-08-22T04:06:23.383969",
+  "decred:daily_rise": "2026-09-05T05:54:01.421766",
   "velvet:daily_rise": "2026-08-24T10:00:38.692556",
   "bitcoin:daily_drop": "2026-07-13T13:49:21.905272",
   "bitcoin:hourly_impulse": "2026-07-13T13:49:22.369361",
@@ -74,7 +74,7 @@
   "hash-2:daily_rise": "2026-08-18T21:32:55.738993",
   "decred:daily_drop": "2026-08-19T00:24:12.179347",
   "billions-network:daily_rise": "2026-07-14T12:03:04.116903",
-  "derive:daily_rise": "2026-08-26T14:08:11.193089",
+  "derive:daily_rise": "2026-09-05T05:54:01.809620",
   "gnosis:daily_rise": "2026-07-15T07:26:56.862812",
   "velvet:daily_drop": "2026-08-18T09:15:13.201341",
   "memecore:daily_drop": "2026-08-28T17:30:00.052490",
@@ -161,7 +161,7 @@
   "iota:daily_rise": "2026-08-22T05:46:50.014469",
   "chain-2:daily_rise": "2026-09-04T21:48:59.339402",
   "ethereum-classic:daily_rise": "2026-08-22T04:47:22.003976",
-  "dash:daily_rise": "2026-09-05T01:19:20.760291",
+  "dash:daily_rise": "2026-09-05T05:54:01.052112",
   "bonk:daily_rise": "2026-08-22T04:47:24.237660",
   "convex-finance:daily_rise": "2026-08-27T00:52:27.399346",
   "sui:daily_rise": "2026-08-22T03:24:05.370653",
@@ -218,6 +218,6 @@
   "edgex:daily_rise": "2026-09-04T09:29:13.861746",
   "useless-3:daily_rise": "2026-09-04T23:27:15.115465",
   "artificial-inu-3:daily_drop": "2026-09-05T01:19:21.106159",
-  "marscoin-4:daily_rise": "2026-09-05T01:19:21.465735",
+  "marscoin-4:daily_rise": "2026-09-05T05:54:02.175982",
   "non-playable-coin:daily_rise": "2026-09-04T13:43:06.176534"
 }
