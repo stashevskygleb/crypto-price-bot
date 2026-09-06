@@ -128,7 +128,7 @@
   "humanity:daily_rise": "2026-08-16T07:57:47.491722",
   "ribbita-by-virtuals:daily_rise": "2026-08-22T12:10:29.617652",
   "fgrs-figure-tokenized-stock:daily_drop": "2026-08-15T05:11:19.769735",
-  "akedo:daily_drop": "2026-09-06T08:47:56.673380",
+  "akedo:daily_drop": "2026-09-06T12:23:32.752931",
   "venice-token:daily_rise": "2026-08-18T14:36:02.453856",
   "bitway:hourly_impulse": "2026-08-19T16:34:27.831292",
   "ethereum:daily_rise": "2026-08-20T19:05:48.609438",
@@ -210,7 +210,7 @@
   "seeker:daily_rise": "2026-09-01T01:26:33.992228",
   "collector-crypt:daily_drop": "2026-08-31T04:32:38.554697",
   "safecoin:daily_rise": "2026-09-01T06:42:22.204057",
-  "arbitrum:daily_rise": "2026-09-06T08:47:56.287659",
+  "arbitrum:daily_rise": "2026-09-06T12:23:31.749877",
   "seeker:daily_drop": "2026-09-02T09:00:50.681480",
   "a7a5:daily_drop": "2026-09-01T19:35:21.565475",
   "falcon-finance-ff:daily_rise": "2026-09-02T09:00:49.742609",
@@ -221,5 +221,7 @@
   "marscoin-4:daily_rise": "2026-09-06T04:26:04.836053",
   "non-playable-coin:daily_rise": "2026-09-04T13:43:06.176534",
   "artificial-inu-3:daily_rise": "2026-09-05T16:12:44.765369",
-  "raydium:daily_rise": "2026-09-06T08:47:57.093575"
+  "raydium:daily_rise": "2026-09-06T12:23:33.271234",
+  "jupiter-exchange-solana:daily_rise": "2026-09-06T12:23:32.258239",
+  "marscoin-4:daily_drop": "2026-09-06T12:23:33.770371"
 }
