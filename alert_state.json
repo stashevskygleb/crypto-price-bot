@@ -23,7 +23,7 @@
   "rain:daily_drop": "2026-07-13T13:54:37.132218",
   "rain:hourly_impulse": "2026-08-25T21:30:53.056779",
   "leo-token:daily_drop": "2026-07-13T13:54:37.796952",
-  "zcash:daily_drop": "2026-07-13T13:54:38.125667",
+  "zcash:daily_drop": "2026-09-10T18:32:48.269273",
   "zcash:hourly_impulse": "2026-07-13T13:54:38.479514",
   "whitebit:daily_drop": "2026-07-13T13:54:38.846075",
   "whitebit:hourly_impulse": "2026-07-13T13:54:39.199310",
@@ -36,7 +36,7 @@
   "cardano:hourly_impulse": "2026-08-22T06:14:53.983661",
   "canton-network:daily_drop": "2026-08-07T09:40:36.073291",
   "canton-network:hourly_impulse": "2026-08-22T10:26:16.629771",
-  "bitcoin-cash:daily_drop": "2026-09-10T15:14:08.006475",
+  "bitcoin-cash:daily_drop": "2026-09-10T18:32:48.713227",
   "the-open-network:daily_drop": "2026-07-13T13:54:43.134653",
   "the-open-network:hourly_impulse": "2026-08-22T06:14:55.643570",
   "litecoin:daily_drop": "2026-07-13T13:54:43.916403",
@@ -198,7 +198,7 @@
   "morpho:daily_rise": "2026-08-24T04:10:26.946350",
   "grass:daily_rise": "2026-08-24T08:02:38.694089",
   "cash-cat:daily_rise": "2026-09-02T22:26:50.639549",
-  "pump-fun:daily_drop": "2026-08-31T04:32:37.753113",
+  "pump-fun:daily_drop": "2026-09-10T18:32:49.164257",
   "meta-2-2:daily_rise": "2026-08-25T23:01:07.407709",
   "aave:hourly_impulse": "2026-08-25T04:21:30.939337",
   "bnb48-club-token:daily_rise": "2026-08-25T10:15:48.144447",
@@ -230,6 +230,6 @@
   "pons:daily_drop": "2026-09-10T15:14:08.455158",
   "aerodrome-finance:daily_rise": "2026-09-08T11:37:31.118719",
   "would:daily_rise": "2026-09-09T16:11:18.387919",
-  "ape-and-pepe:daily_rise": "2026-09-10T15:14:08.943740",
-  "hunter-biden-s-laptop-3:daily_drop": "2026-09-10T15:14:09.795374"
+  "ape-and-pepe:daily_rise": "2026-09-10T18:32:49.615294",
+  "hunter-biden-s-laptop-3:daily_drop": "2026-09-10T18:32:50.064017"
 }
