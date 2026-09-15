@@ -130,7 +130,7 @@
   "fgrs-figure-tokenized-stock:daily_drop": "2026-08-15T05:11:19.769735",
   "akedo:daily_drop": "2026-09-09T16:11:17.489738",
   "venice-token:daily_rise": "2026-09-09T11:53:44.371119",
-  "bitway:hourly_impulse": "2026-08-19T16:34:27.831292",
+  "bitway:hourly_impulse": "2026-09-15T05:20:04.253975",
   "ethereum:daily_rise": "2026-08-20T19:05:48.609438",
   "hyperliquid:daily_rise": "2026-08-20T15:19:48.873166",
   "official-trump:daily_rise": "2026-08-28T05:17:42.804188",
@@ -235,5 +235,6 @@
   "ape-and-pepe:daily_drop": "2026-09-12T13:59:15.993248",
   "stonk-3:daily_drop": "2026-09-14T18:35:02.484905",
   "lisk:daily_rise": "2026-09-14T01:04:36.763595",
-  "filecoin:daily_rise": "2026-09-14T06:13:17.815148"
+  "filecoin:daily_rise": "2026-09-14T06:13:17.815148",
+  "lobster-2:daily_rise": "2026-09-15T05:20:04.571481"
 }
