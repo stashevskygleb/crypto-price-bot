@@ -20,7 +20,7 @@
   "hyperliquid:hourly_impulse": "2026-07-13T13:54:36.101970",
   "dogecoin:daily_drop": "2026-07-13T13:54:36.440129",
   "dogecoin:hourly_impulse": "2026-08-22T06:14:52.788299",
-  "rain:daily_drop": "2026-07-13T13:54:37.132218",
+  "rain:daily_drop": "2026-09-15T10:13:11.461908",
   "rain:hourly_impulse": "2026-08-25T21:30:53.056779",
   "leo-token:daily_drop": "2026-07-13T13:54:37.796952",
   "zcash:daily_drop": "2026-09-11T11:17:20.171007",
@@ -122,7 +122,7 @@
   "holoworld:daily_rise": "2026-08-12T05:12:09.299038",
   "fgrs-figure-tokenized-stock:daily_rise": "2026-08-18T01:36:06.908965",
   "cysic:daily_drop": "2026-08-15T22:24:38.937458",
-  "akedo:daily_rise": "2026-09-07T12:23:58.014096",
+  "akedo:daily_rise": "2026-09-15T10:13:11.864624",
   "figure-heloc:hourly_impulse": "2026-08-13T21:22:08.128440",
   "doublezero:daily_rise": "2026-08-14T07:43:11.514154",
   "humanity:daily_rise": "2026-08-16T07:57:47.491722",
@@ -236,5 +236,5 @@
   "stonk-3:daily_drop": "2026-09-14T18:35:02.484905",
   "lisk:daily_rise": "2026-09-14T01:04:36.763595",
   "filecoin:daily_rise": "2026-09-14T06:13:17.815148",
-  "lobster-2:daily_rise": "2026-09-15T05:20:04.571481"
+  "lobster-2:daily_rise": "2026-09-15T10:13:12.305168"
 }
