@@ -74,7 +74,7 @@
   "hash-2:daily_rise": "2026-08-18T21:32:55.738993",
   "decred:daily_drop": "2026-08-19T00:24:12.179347",
   "billions-network:daily_rise": "2026-07-14T12:03:04.116903",
-  "derive:daily_rise": "2026-09-16T04:57:30.338202",
+  "derive:daily_rise": "2026-09-16T14:25:55.739154",
   "gnosis:daily_rise": "2026-07-15T07:26:56.862812",
   "velvet:daily_drop": "2026-08-18T09:15:13.201341",
   "memecore:daily_drop": "2026-08-28T17:30:00.052490",
@@ -236,5 +236,6 @@
   "stonk-3:daily_drop": "2026-09-14T18:35:02.484905",
   "lisk:daily_rise": "2026-09-14T01:04:36.763595",
   "filecoin:daily_rise": "2026-09-14T06:13:17.815148",
-  "lobster-2:daily_rise": "2026-09-16T09:49:45.966103"
+  "lobster-2:daily_rise": "2026-09-16T09:49:45.966103",
+  "bedrock-token:daily_rise": "2026-09-16T14:25:56.202898"
 }
