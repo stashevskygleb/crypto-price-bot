@@ -20,7 +20,7 @@
   "hyperliquid:hourly_impulse": "2026-07-13T13:54:36.101970",
   "dogecoin:daily_drop": "2026-07-13T13:54:36.440129",
   "dogecoin:hourly_impulse": "2026-08-22T06:14:52.788299",
-  "rain:daily_drop": "2026-09-15T15:04:51.946575",
+  "rain:daily_drop": "2026-09-16T18:20:39.294127",
   "rain:hourly_impulse": "2026-08-25T21:30:53.056779",
   "leo-token:daily_drop": "2026-07-13T13:54:37.796952",
   "zcash:daily_drop": "2026-09-11T11:17:20.171007",
@@ -74,7 +74,7 @@
   "hash-2:daily_rise": "2026-08-18T21:32:55.738993",
   "decred:daily_drop": "2026-08-19T00:24:12.179347",
   "billions-network:daily_rise": "2026-07-14T12:03:04.116903",
-  "derive:daily_rise": "2026-09-16T14:25:55.739154",
+  "derive:daily_rise": "2026-09-16T18:20:42.084630",
   "gnosis:daily_rise": "2026-07-15T07:26:56.862812",
   "velvet:daily_drop": "2026-08-18T09:15:13.201341",
   "memecore:daily_drop": "2026-08-28T17:30:00.052490",
@@ -128,7 +128,7 @@
   "humanity:daily_rise": "2026-08-16T07:57:47.491722",
   "ribbita-by-virtuals:daily_rise": "2026-09-14T22:01:59.747246",
   "fgrs-figure-tokenized-stock:daily_drop": "2026-08-15T05:11:19.769735",
-  "akedo:daily_drop": "2026-09-09T16:11:17.489738",
+  "akedo:daily_drop": "2026-09-16T18:20:39.721620",
   "venice-token:daily_rise": "2026-09-09T11:53:44.371119",
   "bitway:hourly_impulse": "2026-09-15T05:20:04.253975",
   "ethereum:daily_rise": "2026-08-20T19:05:48.609438",
@@ -234,8 +234,8 @@
   "hunter-biden-s-laptop-3:daily_drop": "2026-09-10T23:14:15.074522",
   "ape-and-pepe:daily_drop": "2026-09-12T13:59:15.993248",
   "stonk-3:daily_drop": "2026-09-14T18:35:02.484905",
-  "lisk:daily_rise": "2026-09-14T01:04:36.763595",
+  "lisk:daily_rise": "2026-09-16T18:20:40.568327",
   "filecoin:daily_rise": "2026-09-14T06:13:17.815148",
   "lobster-2:daily_rise": "2026-09-16T09:49:45.966103",
-  "bedrock-token:daily_rise": "2026-09-16T14:25:56.202898"
+  "bedrock-token:daily_rise": "2026-09-16T18:20:40.144653"
 }
