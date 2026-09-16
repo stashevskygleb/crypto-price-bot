@@ -74,7 +74,7 @@
   "hash-2:daily_rise": "2026-08-18T21:32:55.738993",
   "decred:daily_drop": "2026-08-19T00:24:12.179347",
   "billions-network:daily_rise": "2026-07-14T12:03:04.116903",
-  "derive:daily_rise": "2026-09-05T13:28:21.889094",
+  "derive:daily_rise": "2026-09-16T04:57:30.338202",
   "gnosis:daily_rise": "2026-07-15T07:26:56.862812",
   "velvet:daily_drop": "2026-08-18T09:15:13.201341",
   "memecore:daily_drop": "2026-08-28T17:30:00.052490",
@@ -98,7 +98,7 @@
   "quack-ai:daily_rise": "2026-07-26T07:45:00.097491",
   "pieverse:daily_rise": "2026-09-07T21:17:35.342356",
   "grx-chain:daily_rise": "2026-09-07T23:35:36.455573",
-  "bitway:daily_rise": "2026-09-14T06:13:17.406449",
+  "bitway:daily_rise": "2026-09-16T04:57:29.366012",
   "pieverse:daily_drop": "2026-08-22T17:29:51.398708",
   "kinesis-silver:daily_rise": "2026-08-27T00:52:26.266377",
   "tagger:daily_rise": "2026-07-27T18:14:19.813981",
@@ -122,7 +122,7 @@
   "holoworld:daily_rise": "2026-08-12T05:12:09.299038",
   "fgrs-figure-tokenized-stock:daily_rise": "2026-08-18T01:36:06.908965",
   "cysic:daily_drop": "2026-08-15T22:24:38.937458",
-  "akedo:daily_rise": "2026-09-15T22:04:52.908874",
+  "akedo:daily_rise": "2026-09-16T04:57:29.679885",
   "figure-heloc:hourly_impulse": "2026-08-13T21:22:08.128440",
   "doublezero:daily_rise": "2026-08-14T07:43:11.514154",
   "humanity:daily_rise": "2026-08-16T07:57:47.491722",
@@ -236,5 +236,5 @@
   "stonk-3:daily_drop": "2026-09-14T18:35:02.484905",
   "lisk:daily_rise": "2026-09-14T01:04:36.763595",
   "filecoin:daily_rise": "2026-09-14T06:13:17.815148",
-  "lobster-2:daily_rise": "2026-09-15T22:04:53.308615"
+  "lobster-2:daily_rise": "2026-09-16T04:57:30.009062"
 }
