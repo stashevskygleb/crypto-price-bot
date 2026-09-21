@@ -90,7 +90,7 @@
   "build-on:daily_drop": "2026-07-23T21:45:46.347426",
   "apriori:daily_drop": "2026-07-23T21:45:46.804146",
   "grok-4:daily_drop": "2026-07-24T06:45:51.005784",
-  "unibase:daily_rise": "2026-09-20T12:17:39.327487",
+  "unibase:daily_rise": "2026-09-21T22:20:24.700618",
   "audiera:daily_rise": "2026-08-12T20:28:17.332527",
   "dexe:daily_rise": "2026-07-25T21:31:43.744570",
   "apriori:daily_rise": "2026-08-13T02:26:42.870277",
@@ -136,7 +136,7 @@
   "official-trump:daily_rise": "2026-08-28T05:17:42.804188",
   "lighter:daily_rise": "2026-08-24T05:05:31.597743",
   "bitcoin:daily_rise": "2026-08-21T09:07:58.548953",
-  "pepe:daily_rise": "2026-09-21T18:49:03.754415",
+  "pepe:daily_rise": "2026-09-21T22:20:24.025728",
   "spx6900:daily_rise": "2026-09-04T09:29:12.863526",
   "monad:daily_rise": "2026-08-20T16:37:58.000064",
   "ripple:daily_rise": "2026-08-22T08:11:38.394233",
@@ -253,5 +253,7 @@
   "pearl-2:daily_drop": "2026-09-20T23:18:21.182416",
   "sei-network:daily_rise": "2026-09-21T13:19:51.295023",
   "kamino:daily_rise": "2026-09-21T13:19:52.962017",
-  "akash-network:daily_rise": "2026-09-21T13:19:53.324684"
+  "akash-network:daily_rise": "2026-09-21T13:19:53.324684",
+  "falcon-finance-ff:daily_drop": "2026-09-21T22:20:24.372248",
+  "aioz-network:daily_rise": "2026-09-21T22:20:25.054426"
 }
