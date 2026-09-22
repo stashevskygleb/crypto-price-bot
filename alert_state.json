@@ -122,7 +122,7 @@
   "holoworld:daily_rise": "2026-08-12T05:12:09.299038",
   "fgrs-figure-tokenized-stock:daily_rise": "2026-08-18T01:36:06.908965",
   "cysic:daily_drop": "2026-08-15T22:24:38.937458",
-  "akedo:daily_rise": "2026-09-20T07:01:10.183838",
+  "akedo:daily_rise": "2026-09-22T06:10:16.495405",
   "figure-heloc:hourly_impulse": "2026-08-13T21:22:08.128440",
   "doublezero:daily_rise": "2026-08-14T07:43:11.514154",
   "humanity:daily_rise": "2026-08-16T07:57:47.491722",
@@ -136,7 +136,7 @@
   "official-trump:daily_rise": "2026-08-28T05:17:42.804188",
   "lighter:daily_rise": "2026-08-24T05:05:31.597743",
   "bitcoin:daily_rise": "2026-08-21T09:07:58.548953",
-  "pepe:daily_rise": "2026-09-21T22:20:24.025728",
+  "pepe:daily_rise": "2026-09-22T06:10:16.165317",
   "spx6900:daily_rise": "2026-09-04T09:29:12.863526",
   "monad:daily_rise": "2026-08-20T16:37:58.000064",
   "ripple:daily_rise": "2026-08-22T08:11:38.394233",
@@ -150,7 +150,7 @@
   "plasma:daily_rise": "2026-08-21T22:27:56.459726",
   "ethereum-name-service:daily_rise": "2026-08-22T08:11:39.651247",
   "ribbita-by-virtuals:daily_drop": "2026-09-15T18:56:55.876740",
-  "dogwifcoin:daily_rise": "2026-08-22T08:51:32.461089",
+  "dogwifcoin:daily_rise": "2026-09-22T06:10:17.276520",
   "zebec-network:daily_rise": "2026-08-21T15:17:28.479963",
   "fartcoin:daily_rise": "2026-08-22T04:47:25.017392",
   "zcash:daily_rise": "2026-09-16T23:49:19.568934",
@@ -196,7 +196,7 @@
   "dogwifcoin:daily_drop": "2026-08-23T06:55:43.500874",
   "fartcoin:daily_drop": "2026-08-23T06:55:44.010968",
   "morpho:daily_rise": "2026-08-24T04:10:26.946350",
-  "grass:daily_rise": "2026-08-24T08:02:38.694089",
+  "grass:daily_rise": "2026-09-22T06:10:16.828959",
   "cash-cat:daily_rise": "2026-09-17T20:23:54.654102",
   "pump-fun:daily_drop": "2026-09-10T18:32:49.164257",
   "meta-2-2:daily_rise": "2026-08-25T23:01:07.407709",
@@ -255,5 +255,6 @@
   "kamino:daily_rise": "2026-09-21T13:19:52.962017",
   "akash-network:daily_rise": "2026-09-21T13:19:53.324684",
   "falcon-finance-ff:daily_drop": "2026-09-21T22:20:24.372248",
-  "aioz-network:daily_rise": "2026-09-21T22:20:25.054426"
+  "aioz-network:daily_rise": "2026-09-21T22:20:25.054426",
+  "lobster-2:daily_drop": "2026-09-22T06:10:17.588970"
 }
