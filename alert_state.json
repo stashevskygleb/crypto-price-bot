@@ -77,7 +77,7 @@
   "derive:daily_rise": "2026-09-19T21:37:26.698337",
   "gnosis:daily_rise": "2026-07-15T07:26:56.862812",
   "velvet:daily_drop": "2026-08-18T09:15:13.201341",
-  "memecore:daily_drop": "2026-09-22T15:43:03.040042",
+  "memecore:daily_drop": "2026-09-22T19:16:46.317533",
   "kaito:daily_rise": "2026-07-26T20:02:34.833442",
   "ecash:daily_rise": "2026-07-18T17:43:19.970903",
   "build-on:daily_rise": "2026-09-08T01:23:11.580019",
@@ -143,7 +143,7 @@
   "telcoin:daily_rise": "2026-08-21T08:20:59.927723",
   "ethena:daily_rise": "2026-09-19T23:33:15.085530",
   "curve-dao-token:daily_rise": "2026-08-22T03:24:07.039847",
-  "bitcoin-cash:daily_rise": "2026-09-22T15:43:02.663043",
+  "bitcoin-cash:daily_rise": "2026-09-22T19:16:45.761897",
   "bianrensheng:daily_rise": "2026-09-05T16:12:43.845148",
   "fetch-ai:daily_rise": "2026-08-22T04:47:23.184545",
   "blockstack:daily_rise": "2026-08-25T06:19:26.273904",
@@ -240,7 +240,7 @@
   "bedrock-token:daily_rise": "2026-09-20T12:17:39.693632",
   "marscat-token:daily_rise": "2026-09-18T01:13:05.975419",
   "uniswap:daily_rise": "2026-09-18T14:59:15.649195",
-  "pearl-2:daily_rise": "2026-09-22T15:43:03.411471",
+  "pearl-2:daily_rise": "2026-09-22T19:16:47.459271",
   "injective-protocol:daily_rise": "2026-09-19T23:33:15.504103",
   "starknet:daily_rise": "2026-09-19T14:13:53.281151",
   "arweave:daily_rise": "2026-09-20T01:36:58.163656",
@@ -257,5 +257,6 @@
   "falcon-finance-ff:daily_drop": "2026-09-21T22:20:24.372248",
   "aioz-network:daily_rise": "2026-09-21T22:20:25.054426",
   "lobster-2:daily_drop": "2026-09-22T11:39:55.343497",
-  "mina-protocol:daily_rise": "2026-09-22T15:43:03.857412"
+  "mina-protocol:daily_rise": "2026-09-22T19:16:47.922855",
+  "bitcoin-cash-sv:daily_rise": "2026-09-22T19:16:46.856144"
 }
