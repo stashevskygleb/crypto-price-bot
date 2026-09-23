@@ -169,7 +169,7 @@
   "celestia:daily_rise": "2026-09-23T10:06:00.675862",
   "kaia:daily_rise": "2026-08-22T03:24:08.029730",
   "canton-network:daily_rise": "2026-08-22T04:06:21.756045",
-  "layerzero:daily_rise": "2026-09-23T10:06:01.068012",
+  "layerzero:daily_rise": "2026-09-23T14:59:17.047493",
   "optimism:daily_rise": "2026-08-22T04:06:22.980583",
   "theta-token:daily_rise": "2026-09-11T15:05:27.992724",
   "cardano:daily_rise": "2026-08-22T05:13:50.894393",
@@ -259,5 +259,5 @@
   "lobster-2:daily_drop": "2026-09-22T11:39:55.343497",
   "mina-protocol:daily_rise": "2026-09-22T22:18:42.738644",
   "bitcoin-cash-sv:daily_rise": "2026-09-23T05:16:12.510525",
-  "meteora:daily_rise": "2026-09-23T10:06:01.435371"
+  "meteora:daily_rise": "2026-09-23T14:59:17.425590"
 }
