@@ -128,9 +128,9 @@
   "humanity:daily_rise": "2026-08-16T07:57:47.491722",
   "ribbita-by-virtuals:daily_rise": "2026-09-21T13:19:52.259434",
   "fgrs-figure-tokenized-stock:daily_drop": "2026-08-15T05:11:19.769735",
-  "akedo:daily_drop": "2026-09-23T05:16:11.443100",
+  "akedo:daily_drop": "2026-09-24T22:39:37.324922",
   "venice-token:daily_rise": "2026-09-21T06:31:11.416353",
-  "bitway:hourly_impulse": "2026-09-21T13:19:50.943644",
+  "bitway:hourly_impulse": "2026-09-24T22:39:35.904823",
   "ethereum:daily_rise": "2026-08-20T19:05:48.609438",
   "hyperliquid:daily_rise": "2026-08-20T15:19:48.873166",
   "official-trump:daily_rise": "2026-08-28T05:17:42.804188",
@@ -249,7 +249,7 @@
   "zama:daily_rise": "2026-09-20T07:01:11.494755",
   "blorb:daily_rise": "2026-09-20T16:17:29.009359",
   "derive:daily_drop": "2026-09-20T01:36:57.393329",
-  "backpack:daily_rise": "2026-09-21T13:19:52.598404",
+  "backpack:daily_rise": "2026-09-24T22:39:37.870175",
   "pearl-2:daily_drop": "2026-09-20T23:18:21.182416",
   "sei-network:daily_rise": "2026-09-21T13:19:51.295023",
   "kamino:daily_rise": "2026-09-21T13:19:52.962017",
@@ -262,6 +262,6 @@
   "meteora:daily_rise": "2026-09-23T14:59:17.425590",
   "spx6900:daily_drop": "2026-09-23T18:59:12.352172",
   "litecoin:daily_rise": "2026-09-24T15:24:45.371386",
-  "ondo-finance:daily_rise": "2026-09-24T19:25:31.076335",
-  "quant-network:daily_rise": "2026-09-24T19:25:31.397953"
+  "ondo-finance:daily_rise": "2026-09-24T22:39:36.372112",
+  "quant-network:daily_rise": "2026-09-24T22:39:36.856592"
 }
