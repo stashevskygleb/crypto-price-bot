@@ -225,7 +225,7 @@
   "jupiter-exchange-solana:daily_rise": "2026-09-07T01:06:27.950597",
   "marscoin-4:daily_drop": "2026-09-07T12:23:58.366061",
   "useless-3:daily_drop": "2026-09-10T15:14:09.380158",
-  "stonk-3:daily_rise": "2026-09-21T18:49:04.245054",
+  "stonk-3:daily_rise": "2026-09-24T15:24:46.086104",
   "unifai-network:daily_rise": "2026-09-12T10:57:33.847043",
   "pons:daily_drop": "2026-09-10T15:14:08.455158",
   "aerodrome-finance:daily_rise": "2026-09-08T11:37:31.118719",
@@ -260,5 +260,7 @@
   "mina-protocol:daily_rise": "2026-09-22T22:18:42.738644",
   "bitcoin-cash-sv:daily_rise": "2026-09-23T05:16:12.510525",
   "meteora:daily_rise": "2026-09-23T14:59:17.425590",
-  "spx6900:daily_drop": "2026-09-23T18:59:12.352172"
+  "spx6900:daily_drop": "2026-09-23T18:59:12.352172",
+  "litecoin:daily_rise": "2026-09-24T15:24:45.371386",
+  "ondo-finance:daily_rise": "2026-09-24T15:24:45.727953"
 }
