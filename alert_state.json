@@ -105,7 +105,7 @@
   "audiera:daily_drop": "2026-08-16T07:57:48.012917",
   "unibase:daily_drop": "2026-09-21T13:19:51.603083",
   "automatic-treasury-machine:daily_rise": "2026-07-28T08:00:48.958647",
-  "bitway:daily_drop": "2026-09-26T18:36:39.588511",
+  "bitway:daily_drop": "2026-09-26T23:52:44.480188",
   "collector-crypt:daily_rise": "2026-09-19T10:52:55.695201",
   "kaito:daily_drop": "2026-08-08T15:15:11.544637",
   "sandisk-bstocks-tokenized-stock:daily_rise": "2026-07-30T23:46:18.353104",
@@ -252,7 +252,7 @@
   "backpack:daily_rise": "2026-09-25T23:13:35.081536",
   "pearl-2:daily_drop": "2026-09-20T23:18:21.182416",
   "sei-network:daily_rise": "2026-09-25T23:13:34.686473",
-  "kamino:daily_rise": "2026-09-26T18:36:40.680408",
+  "kamino:daily_rise": "2026-09-26T23:52:45.420187",
   "akash-network:daily_rise": "2026-09-21T13:19:53.324684",
   "falcon-finance-ff:daily_drop": "2026-09-21T22:20:24.372248",
   "aioz-network:daily_rise": "2026-09-21T22:20:25.054426",
@@ -263,6 +263,6 @@
   "spx6900:daily_drop": "2026-09-23T18:59:12.352172",
   "litecoin:daily_rise": "2026-09-24T15:24:45.371386",
   "ondo-finance:daily_rise": "2026-09-25T11:41:20.704253",
-  "quant-network:daily_rise": "2026-09-26T18:36:40.092004",
+  "quant-network:daily_rise": "2026-09-26T23:52:44.955126",
   "bedrock-token:daily_drop": "2026-09-26T06:38:46.446670"
 }
