@@ -123,7 +123,7 @@
   "fgrs-figure-tokenized-stock:daily_rise": "2026-08-18T01:36:06.908965",
   "cysic:daily_drop": "2026-08-15T22:24:38.937458",
   "akedo:daily_rise": "2026-09-22T06:10:16.495405",
-  "figure-heloc:hourly_impulse": "2026-08-13T21:22:08.128440",
+  "figure-heloc:hourly_impulse": "2026-09-28T13:41:06.256528",
   "doublezero:daily_rise": "2026-09-26T21:34:24.156336",
   "humanity:daily_rise": "2026-08-16T07:57:47.491722",
   "ribbita-by-virtuals:daily_rise": "2026-09-21T13:19:52.259434",
@@ -263,10 +263,11 @@
   "spx6900:daily_drop": "2026-09-23T18:59:12.352172",
   "litecoin:daily_rise": "2026-09-24T15:24:45.371386",
   "ondo-finance:daily_rise": "2026-09-25T11:41:20.704253",
-  "quant-network:daily_rise": "2026-09-28T05:57:24.749333",
+  "quant-network:daily_rise": "2026-09-28T13:41:07.216301",
   "bedrock-token:daily_drop": "2026-09-26T06:38:46.446670",
   "thorchain:daily_rise": "2026-09-27T04:25:51.481696",
   "the-graph:daily_rise": "2026-09-27T22:00:46.137716",
-  "shuffle-2:daily_rise": "2026-09-28T05:57:25.814403",
-  "quant-network:hourly_impulse": "2026-09-28T00:40:52.679430"
+  "shuffle-2:daily_rise": "2026-09-28T13:41:07.744779",
+  "quant-network:hourly_impulse": "2026-09-28T00:40:52.679430",
+  "hedera-hashgraph:daily_rise": "2026-09-28T13:41:06.730141"
 }
