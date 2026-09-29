@@ -187,8 +187,8 @@
   "aster-2:hourly_impulse": "2026-08-22T06:15:00.713674",
   "pepe:hourly_impulse": "2026-08-22T06:15:01.123251",
   "pump-fun:hourly_impulse": "2026-08-22T09:29:10.037049",
-  "near:daily_drop": "2026-09-28T20:16:40.031917",
-  "ondo-finance:daily_drop": "2026-08-23T04:09:32.204595",
+  "near:daily_drop": "2026-09-29T00:25:25.510838",
+  "ondo-finance:daily_drop": "2026-09-29T00:25:27.000690",
   "avalanche-2:daily_drop": "2026-08-23T06:55:40.941878",
   "worldcoin-wld:daily_drop": "2026-08-23T06:55:41.450295",
   "official-trump:daily_drop": "2026-08-23T06:55:42.454509",
@@ -224,7 +224,7 @@
   "raydium:daily_rise": "2026-09-11T18:28:18.774649",
   "jupiter-exchange-solana:daily_rise": "2026-09-07T01:06:27.950597",
   "marscoin-4:daily_drop": "2026-09-07T12:23:58.366061",
-  "useless-3:daily_drop": "2026-09-28T20:16:41.401380",
+  "useless-3:daily_drop": "2026-09-29T00:25:27.545405",
   "stonk-3:daily_rise": "2026-09-24T19:25:31.743756",
   "unifai-network:daily_rise": "2026-09-12T10:57:33.847043",
   "pons:daily_drop": "2026-09-10T15:14:08.455158",
@@ -269,5 +269,6 @@
   "the-graph:daily_rise": "2026-09-27T22:00:46.137716",
   "shuffle-2:daily_rise": "2026-09-28T13:41:07.744779",
   "quant-network:hourly_impulse": "2026-09-28T00:40:52.679430",
-  "hedera-hashgraph:daily_rise": "2026-09-28T20:16:40.380349"
+  "hedera-hashgraph:daily_rise": "2026-09-29T00:25:25.994125",
+  "quant-network:daily_drop": "2026-09-29T00:25:26.492888"
 }
