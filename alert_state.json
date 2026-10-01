@@ -249,7 +249,7 @@
   "zama:daily_rise": "2026-09-20T07:01:11.494755",
   "blorb:daily_rise": "2026-09-20T16:17:29.009359",
   "derive:daily_drop": "2026-09-20T01:36:57.393329",
-  "backpack:daily_rise": "2026-10-01T08:32:16.547355",
+  "backpack:daily_rise": "2026-10-01T15:39:09.262796",
   "pearl-2:daily_drop": "2026-09-20T23:18:21.182416",
   "sei-network:daily_rise": "2026-09-25T23:13:34.686473",
   "kamino:daily_rise": "2026-09-26T23:52:45.420187",
@@ -270,5 +270,5 @@
   "shuffle-2:daily_rise": "2026-09-28T13:41:07.744779",
   "quant-network:hourly_impulse": "2026-09-28T00:40:52.679430",
   "hedera-hashgraph:daily_rise": "2026-09-29T00:25:25.994125",
-  "quant-network:daily_drop": "2026-09-29T00:25:26.492888"
+  "quant-network:daily_drop": "2026-10-01T15:39:08.803539"
 }
