@@ -244,7 +244,7 @@
   "injective-protocol:daily_rise": "2026-09-19T23:33:15.504103",
   "starknet:daily_rise": "2026-09-19T14:13:53.281151",
   "arweave:daily_rise": "2026-09-20T01:36:58.163656",
-  "railgun:daily_rise": "2026-10-02T00:12:03.065043",
+  "railgun:daily_rise": "2026-10-02T05:51:27.761273",
   "tezos:daily_rise": "2026-09-19T21:37:26.333358",
   "zama:daily_rise": "2026-09-20T07:01:11.494755",
   "blorb:daily_rise": "2026-09-20T16:17:29.009359",
@@ -270,6 +270,6 @@
   "shuffle-2:daily_rise": "2026-09-28T13:41:07.744779",
   "quant-network:hourly_impulse": "2026-09-28T00:40:52.679430",
   "hedera-hashgraph:daily_rise": "2026-09-29T00:25:25.994125",
-  "quant-network:daily_drop": "2026-10-02T00:12:02.251809",
+  "quant-network:daily_drop": "2026-10-02T05:51:27.376805",
   "shuffle-2:daily_drop": "2026-10-02T00:12:02.654052"
 }
