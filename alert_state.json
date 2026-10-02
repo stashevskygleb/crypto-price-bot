@@ -97,7 +97,7 @@
   "shiba-inu:daily_rise": "2026-08-22T05:46:48.749900",
   "quack-ai:daily_rise": "2026-09-27T10:09:10.981083",
   "pieverse:daily_rise": "2026-09-19T14:13:52.207941",
-  "grx-chain:daily_rise": "2026-09-07T23:35:36.455573",
+  "grx-chain:daily_rise": "2026-10-02T12:07:24.124831",
   "bitway:daily_rise": "2026-10-01T08:32:15.409424",
   "pieverse:daily_drop": "2026-08-22T17:29:51.398708",
   "kinesis-silver:daily_rise": "2026-08-27T00:52:26.266377",
@@ -106,7 +106,7 @@
   "unibase:daily_drop": "2026-09-21T13:19:51.603083",
   "automatic-treasury-machine:daily_rise": "2026-07-28T08:00:48.958647",
   "bitway:daily_drop": "2026-09-28T20:16:41.048461",
-  "collector-crypt:daily_rise": "2026-09-19T10:52:55.695201",
+  "collector-crypt:daily_rise": "2026-10-02T12:07:22.646096",
   "kaito:daily_drop": "2026-08-08T15:15:11.544637",
   "sandisk-bstocks-tokenized-stock:daily_rise": "2026-07-30T23:46:18.353104",
   "talus:daily_rise": "2026-08-01T00:13:18.854160",
@@ -271,5 +271,7 @@
   "quant-network:hourly_impulse": "2026-09-28T00:40:52.679430",
   "hedera-hashgraph:daily_rise": "2026-09-29T00:25:25.994125",
   "quant-network:daily_drop": "2026-10-02T05:51:27.376805",
-  "shuffle-2:daily_drop": "2026-10-02T00:12:02.654052"
+  "shuffle-2:daily_drop": "2026-10-02T12:07:24.578045",
+  "decentraland:daily_rise": "2026-10-02T12:07:23.126623",
+  "the-sandbox:daily_rise": "2026-10-02T12:07:23.607105"
 }
