@@ -71,7 +71,7 @@
   "htx-dao:hourly_impulse": "2026-07-13T13:54:55.322331",
   "memecore:daily_rise": "2026-09-20T07:01:09.748712",
   "memecore:hourly_impulse": "2026-08-19T06:49:11.865941",
-  "hash-2:daily_rise": "2026-10-09T13:50:48.883258",
+  "hash-2:daily_rise": "2026-10-09T19:19:53.199269",
   "decred:daily_drop": "2026-08-19T00:24:12.179347",
   "billions-network:daily_rise": "2026-07-14T12:03:04.116903",
   "derive:daily_rise": "2026-10-09T13:50:48.352771",
@@ -167,7 +167,7 @@
   "sui:daily_rise": "2026-09-21T13:19:50.609662",
   "polygon-ecosystem-token:daily_rise": "2026-08-22T20:50:14.290118",
   "celestia:daily_rise": "2026-09-23T10:06:00.675862",
-  "kaia:daily_rise": "2026-10-09T13:50:49.426552",
+  "kaia:daily_rise": "2026-10-09T19:19:53.742179",
   "canton-network:daily_rise": "2026-08-22T04:06:21.756045",
   "layerzero:daily_rise": "2026-09-23T14:59:17.047493",
   "optimism:daily_rise": "2026-08-22T04:06:22.980583",
@@ -242,7 +242,7 @@
   "uniswap:daily_rise": "2026-09-18T14:59:15.649195",
   "pearl-2:daily_rise": "2026-10-08T01:12:23.476200",
   "injective-protocol:daily_rise": "2026-09-19T23:33:15.504103",
-  "starknet:daily_rise": "2026-10-09T13:50:47.843111",
+  "starknet:daily_rise": "2026-10-09T19:19:52.650108",
   "arweave:daily_rise": "2026-09-20T01:36:58.163656",
   "railgun:daily_rise": "2026-10-02T05:51:27.761273",
   "tezos:daily_rise": "2026-09-19T21:37:26.333358",
@@ -276,5 +276,7 @@
   "the-sandbox:daily_rise": "2026-10-07T16:19:31.498796",
   "backpack:daily_drop": "2026-10-07T02:19:57.426353",
   "doublezero:daily_drop": "2026-10-03T11:57:10.233866",
-  "orca:daily_rise": "2026-10-07T02:19:57.847332"
+  "orca:daily_rise": "2026-10-07T02:19:57.847332",
+  "cosmos:daily_rise": "2026-10-09T19:19:52.110621",
+  "basic-attention-token:daily_rise": "2026-10-09T19:19:54.277724"
 }
