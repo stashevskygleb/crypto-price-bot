@@ -267,7 +267,7 @@
   "bedrock-token:daily_drop": "2026-09-26T06:38:46.446670",
   "thorchain:daily_rise": "2026-09-27T04:25:51.481696",
   "the-graph:daily_rise": "2026-09-27T22:00:46.137716",
-  "shuffle-2:daily_rise": "2026-09-28T13:41:07.744779",
+  "shuffle-2:daily_rise": "2026-10-10T15:14:06.669848",
   "quant-network:hourly_impulse": "2026-09-28T00:40:52.679430",
   "hedera-hashgraph:daily_rise": "2026-09-29T00:25:25.994125",
   "quant-network:daily_drop": "2026-10-02T05:51:27.376805",
@@ -278,5 +278,6 @@
   "doublezero:daily_drop": "2026-10-03T11:57:10.233866",
   "orca:daily_rise": "2026-10-07T02:19:57.847332",
   "cosmos:daily_rise": "2026-10-09T19:19:52.110621",
-  "basic-attention-token:daily_rise": "2026-10-10T02:35:22.224409"
+  "basic-attention-token:daily_rise": "2026-10-10T02:35:22.224409",
+  "conflux-token:daily_rise": "2026-10-10T15:14:06.251747"
 }
