@@ -298,5 +298,6 @@
   "kinetiq:daily_rise": "2026-10-30T09:03:57.562912",
   "pyth-network:daily_drop": "2026-10-30T15:52:17.664505",
   "celestia:daily_drop": "2026-10-30T15:52:18.031442",
-  "thorchain:daily_drop": "2026-11-02T05:44:30.984530"
+  "thorchain:daily_drop": "2026-11-02T05:44:30.984530",
+  "beam-2:daily_drop": "2026-11-02T22:37:57.726723"
 }
