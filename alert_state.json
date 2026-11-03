@@ -21,7 +21,7 @@
   "dogecoin:daily_drop": "2026-07-13T13:54:36.440129",
   "dogecoin:hourly_impulse": "2026-08-22T06:14:52.788299",
   "rain:daily_drop": "2026-10-29T06:15:51.616220",
-  "rain:hourly_impulse": "2026-10-04T12:45:44.725731",
+  "rain:hourly_impulse": "2026-11-03T11:23:56.356558",
   "leo-token:daily_drop": "2026-07-13T13:54:37.796952",
   "zcash:daily_drop": "2026-10-15T10:19:47.559668",
   "zcash:hourly_impulse": "2026-07-13T13:54:38.479514",
@@ -299,5 +299,6 @@
   "pyth-network:daily_drop": "2026-10-30T15:52:17.664505",
   "celestia:daily_drop": "2026-10-30T15:52:18.031442",
   "thorchain:daily_drop": "2026-11-02T05:44:30.984530",
-  "beam-2:daily_drop": "2026-11-03T03:42:32.970467"
+  "beam-2:daily_drop": "2026-11-03T11:23:57.268132",
+  "a7a5:daily_rise": "2026-11-03T11:23:56.818714"
 }
