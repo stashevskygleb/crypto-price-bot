@@ -187,7 +187,7 @@
   "aster-2:hourly_impulse": "2026-08-22T06:15:00.713674",
   "pepe:hourly_impulse": "2026-10-29T23:15:15.120317",
   "pump-fun:hourly_impulse": "2026-08-22T09:29:10.037049",
-  "near:daily_drop": "2026-10-29T23:15:12.571236",
+  "near:daily_drop": "2026-11-03T03:42:32.519627",
   "ondo-finance:daily_drop": "2026-10-13T01:20:53.292409",
   "avalanche-2:daily_drop": "2026-08-23T06:55:40.941878",
   "worldcoin-wld:daily_drop": "2026-08-23T06:55:41.450295",
@@ -299,5 +299,5 @@
   "pyth-network:daily_drop": "2026-10-30T15:52:17.664505",
   "celestia:daily_drop": "2026-10-30T15:52:18.031442",
   "thorchain:daily_drop": "2026-11-02T05:44:30.984530",
-  "beam-2:daily_drop": "2026-11-02T22:37:57.726723"
+  "beam-2:daily_drop": "2026-11-03T03:42:32.970467"
 }
