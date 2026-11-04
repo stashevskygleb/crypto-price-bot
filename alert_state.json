@@ -191,7 +191,7 @@
   "ondo-finance:daily_drop": "2026-10-13T01:20:53.292409",
   "avalanche-2:daily_drop": "2026-08-23T06:55:40.941878",
   "worldcoin-wld:daily_drop": "2026-08-23T06:55:41.450295",
-  "official-trump:daily_drop": "2026-11-04T18:41:28.306517",
+  "official-trump:daily_drop": "2026-11-04T23:57:07.862823",
   "terra-luna:daily_drop": "2026-08-23T06:55:42.950051",
   "dogwifcoin:daily_drop": "2026-08-23T06:55:43.500874",
   "fartcoin:daily_drop": "2026-08-23T06:55:44.010968",
@@ -301,5 +301,6 @@
   "thorchain:daily_drop": "2026-11-02T05:44:30.984530",
   "beam-2:daily_drop": "2026-11-03T11:23:57.268132",
   "a7a5:daily_rise": "2026-11-04T03:18:41.346568",
-  "yellow:daily_rise": "2026-11-04T03:18:41.748022"
+  "yellow:daily_rise": "2026-11-04T03:18:41.748022",
+  "instadapp:daily_rise": "2026-11-04T23:57:08.234867"
 }
