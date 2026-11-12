@@ -270,7 +270,7 @@
   "shuffle-2:daily_rise": "2026-10-10T22:50:16.993416",
   "quant-network:hourly_impulse": "2026-09-28T00:40:52.679430",
   "hedera-hashgraph:daily_rise": "2026-09-29T00:25:25.994125",
-  "quant-network:daily_drop": "2026-10-02T05:51:27.376805",
+  "quant-network:daily_drop": "2026-11-12T16:53:01.504318",
   "shuffle-2:daily_drop": "2026-10-02T12:07:24.578045",
   "decentraland:daily_rise": "2026-10-03T06:27:47.223770",
   "the-sandbox:daily_rise": "2026-10-07T16:19:31.498796",
@@ -305,5 +305,5 @@
   "instadapp:daily_rise": "2026-11-05T06:25:12.252022",
   "quantixai:daily_rise": "2026-11-12T01:03:22.438446",
   "ozone-chain:daily_rise": "2026-11-12T08:14:41.941539",
-  "pepe:daily_drop": "2026-11-12T08:14:41.456564"
+  "pepe:daily_drop": "2026-11-12T16:53:01.986688"
 }
