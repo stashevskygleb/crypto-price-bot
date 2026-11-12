@@ -20,7 +20,7 @@
   "hyperliquid:hourly_impulse": "2026-07-13T13:54:36.101970",
   "dogecoin:daily_drop": "2026-07-13T13:54:36.440129",
   "dogecoin:hourly_impulse": "2026-08-22T06:14:52.788299",
-  "rain:daily_drop": "2026-11-10T23:46:57.390333",
+  "rain:daily_drop": "2026-11-12T08:14:40.914042",
   "rain:hourly_impulse": "2026-11-03T11:23:56.356558",
   "leo-token:daily_drop": "2026-07-13T13:54:37.796952",
   "zcash:daily_drop": "2026-11-11T11:11:23.662534",
@@ -304,6 +304,6 @@
   "yellow:daily_rise": "2026-11-04T03:18:41.748022",
   "instadapp:daily_rise": "2026-11-05T06:25:12.252022",
   "quantixai:daily_rise": "2026-11-12T01:03:22.438446",
-  "ozone-chain:daily_rise": "2026-11-12T01:03:22.751245",
-  "pepe:daily_drop": "2026-11-12T01:03:22.059444"
+  "ozone-chain:daily_rise": "2026-11-12T08:14:41.941539",
+  "pepe:daily_drop": "2026-11-12T08:14:41.456564"
 }
