@@ -54,7 +54,7 @@
   "shiba-inu:hourly_impulse": "2026-08-22T06:14:57.277474",
   "ondo-us-dollar-yield:daily_rise": "2026-07-13T13:54:48.609282",
   "ondo-us-dollar-yield:hourly_impulse": "2026-07-13T13:54:48.943525",
-  "uniswap:daily_drop": "2026-10-29T23:15:13.266998",
+  "uniswap:daily_drop": "2026-11-14T16:52:44.429770",
   "uniswap:hourly_impulse": "2026-08-22T06:14:58.567071",
   "dexe:daily_drop": "2026-07-30T23:46:17.912894",
   "dexe:hourly_impulse": "2026-07-17T16:38:30.226127",
@@ -187,7 +187,7 @@
   "aster-2:hourly_impulse": "2026-08-22T06:15:00.713674",
   "pepe:hourly_impulse": "2026-10-29T23:15:15.120317",
   "pump-fun:hourly_impulse": "2026-08-22T09:29:10.037049",
-  "near:daily_drop": "2026-11-03T03:42:32.519627",
+  "near:daily_drop": "2026-11-14T16:52:43.988333",
   "ondo-finance:daily_drop": "2026-10-13T01:20:53.292409",
   "avalanche-2:daily_drop": "2026-08-23T06:55:40.941878",
   "worldcoin-wld:daily_drop": "2026-08-23T06:55:41.450295",
@@ -208,7 +208,7 @@
   "pons:daily_rise": "2026-10-28T02:14:43.840924",
   "helium:daily_rise": "2026-08-30T18:45:16.197475",
   "seeker:daily_rise": "2026-09-01T01:26:33.992228",
-  "collector-crypt:daily_drop": "2026-11-06T08:32:40.027071",
+  "collector-crypt:daily_drop": "2026-11-14T16:52:45.321937",
   "safecoin:daily_rise": "2026-09-01T06:42:22.204057",
   "arbitrum:daily_rise": "2026-09-18T23:15:47.092035",
   "seeker:daily_drop": "2026-09-02T09:00:50.681480",
@@ -305,5 +305,5 @@
   "instadapp:daily_rise": "2026-11-05T06:25:12.252022",
   "quantixai:daily_rise": "2026-11-12T01:03:22.438446",
   "ozone-chain:daily_rise": "2026-11-12T08:14:41.941539",
-  "pepe:daily_drop": "2026-11-12T16:53:01.986688"
+  "pepe:daily_drop": "2026-11-14T16:52:44.878176"
 }
