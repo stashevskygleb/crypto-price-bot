@@ -60,7 +60,7 @@
   "dexe:hourly_impulse": "2026-07-17T16:38:30.226127",
   "bittensor:daily_drop": "2026-11-15T01:06:30.350925",
   "bittensor:hourly_impulse": "2026-11-14T21:10:50.726270",
-  "world-liberty-financial:daily_drop": "2026-11-28T12:56:48.126457",
+  "world-liberty-financial:daily_drop": "2026-11-28T20:49:56.953963",
   "world-liberty-financial:hourly_impulse": "2026-08-22T06:14:59.844736",
   "pax-gold:daily_drop": "2026-07-13T13:54:53.182961",
   "pax-gold:hourly_impulse": "2026-07-13T13:54:53.608727",
@@ -77,7 +77,7 @@
   "derive:daily_rise": "2026-11-22T01:16:33.391564",
   "gnosis:daily_rise": "2026-07-15T07:26:56.862812",
   "velvet:daily_drop": "2026-08-18T09:15:13.201341",
-  "memecore:daily_drop": "2026-11-01T09:33:03.914476",
+  "memecore:daily_drop": "2026-11-28T20:49:56.569068",
   "kaito:daily_rise": "2026-07-26T20:02:34.833442",
   "ecash:daily_rise": "2026-07-18T17:43:19.970903",
   "build-on:daily_rise": "2026-09-08T01:23:11.580019",
@@ -130,7 +130,7 @@
   "fgrs-figure-tokenized-stock:daily_drop": "2026-08-15T05:11:19.769735",
   "akedo:daily_drop": "2026-11-21T00:20:28.173523",
   "venice-token:daily_rise": "2026-11-21T21:07:49.948262",
-  "bitway:hourly_impulse": "2026-10-23T01:40:14.122984",
+  "bitway:hourly_impulse": "2026-11-28T20:49:56.176825",
   "ethereum:daily_rise": "2026-08-20T19:05:48.609438",
   "hyperliquid:daily_rise": "2026-08-20T15:19:48.873166",
   "official-trump:daily_rise": "2026-08-28T05:17:42.804188",
@@ -315,5 +315,6 @@
   "lighter:daily_drop": "2026-11-20T18:45:17.536035",
   "dgrid-ai:daily_rise": "2026-11-23T02:25:52.136942",
   "nvidia-bstocks:daily_rise": "2026-11-24T06:23:24.241712",
-  "nvidia-xstock:daily_rise": "2026-11-24T06:23:24.682870"
+  "nvidia-xstock:daily_rise": "2026-11-24T06:23:24.682870",
+  "o1-exchange:daily_rise": "2026-11-28T20:49:57.383831"
 }
